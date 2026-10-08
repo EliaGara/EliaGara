@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">MSc student in Computer Science and Engineering at Politecnico di Milano, focusing my studies on cyber-security topics.</p>
+<p data-importer="text" align="left">I'm a MSc student in Computer Science and Engineering at Politecnico di Milano, focusing my studies on cyber-security topics.</p>
 
 ###
 
